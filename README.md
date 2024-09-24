@@ -14,9 +14,10 @@ I'm a passionate developer with an interest in technology from web development, 
 
 - **[LinkedIn](https://it.linkedin.com/in/sjodinscolari)**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-%230072C6.svg?style=for-the-badge&logo=power-bi&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-%23000000.svg?style=for-the-badge&logo=micropython&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
