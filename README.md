@@ -1,6 +1,6 @@
 # Welcome to my GitHub account!
 
-I'm a passionate developer with an interest in technology from Web development, data visualizations to IoT. I love to experiment, build innovative tools, and continuously learn new skills.
+I'm a passionate developer with an interest in technology from web development, data visualizations to IoT. I love to experiment, build innovative tools, and continuously learn new skills.
 
 ## Some of my projects
 
