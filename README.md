@@ -6,7 +6,9 @@ I'm a passionate developer with an interest in technology from Web development, 
 
 ### [My Portfolio](https://saras-portfolio.netlify.app/)
 
-- <a href="https://climasense.netlify.app/" target="_blank">Weather App</a>: A weather forecasting app built with OpenWeather API.
+- **[Weather App](https://climasense.netlify.app/)**: A weather forecasting app built with OpenWeather API.
+
+- <a href="https://climasense.netlify.app/" target="_blank">Weather App</a>
 - <a href="https://timezonesclocks.netlify.app/" target="_blank">TimeZone App</a>: A JavaScript app showcasing timzone.
 - <a href="https://ai-poems-generator.netlify.app/" target="_blank">AI Poem App</a>: An AI JavaScript app built with API.
 
