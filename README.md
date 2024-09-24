@@ -12,7 +12,7 @@ I'm a passionate developer with an interest in technology from Web development, 
 
 ## How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/sarasjodin/)
+- [LinkedIn](https://it.linkedin.com/in/sjodinscolari)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react)
