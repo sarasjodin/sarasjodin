@@ -31,6 +31,14 @@ I'm a passionate developer with an interest in technology from web development, 
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+![PageSpeed Insights](https://img.shields.io/badge/PageSpeed-00C853.svg?style=for-the-badge&logo=Google-Lighthouse&logoColor=white)
+![WCAG](https://img.shields.io/badge/WCAG-AA-008000.svg?style=for-the-badge&logo=W3C&logoColor=white)
+![ARIA](https://img.shields.io/badge/ARIA-Supports-blue.svg?style=for-the-badge&logo=Accessibility&logoColor=white)
+![WEBP](https://img.shields.io/badge/WEBP-4B8BBE.svg?style=for-the-badge&logo=WebP&logoColor=white)
+![AVIF](https://img.shields.io/badge/AVIF-0A66C2.svg?style=for-the-badge&logo=AVIF&logoColor=white)
+![MP4](https://img.shields.io/badge/MP4-FF0000.svg?style=for-the-badge&logo=Video&logoColor=white)
+![WebM](https://img.shields.io/badge/WebM-00D1B2.svg?style=for-the-badge&logo=WebM&logoColor=white)
+
 ## Top languages for my public repositories
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarasjodin&layout=compact)
