@@ -20,6 +20,7 @@ I'm a passionate developer with an interest in technology from web development, 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-%230072C6.svg?style=for-the-badge&logo=power-bi&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-%23000000.svg?style=for-the-badge&logo=micropython&logoColor=white)
