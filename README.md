@@ -45,5 +45,12 @@ I'm a passionate developer with an interest in technology from web development, 
 ![MP4](https://img.shields.io/badge/MP4-FF0000.svg?style=for-the-badge&logo=Video&logoColor=white)
 ![WebM](https://img.shields.io/badge/WebM-00D1B2.svg?style=for-the-badge&logo=WebM&logoColor=white)
 
+## JavaScript Libraries for Interactive Charts & Maps
+![3D.js](https://img.shields.io/badge/3D.js-0080FF.svg?style=for-the-badge&logo=Three.js&logoColor=white)
+![Chartist.js](https://img.shields.io/badge/Chartist.js-FF6347.svg?style=for-the-badge&logo=Chartist&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6F00.svg?style=for-the-badge&logo=Chart.js&logoColor=white)
+![Highcharts](https://img.shields.io/badge/Highcharts-009688.svg?style=for-the-badge&logo=Highcharts&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-28B5B5.svg?style=for-the-badge&logo=Leaflet&logoColor=white)
+
 ## Top languages for my public repositories
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarasjodin&layout=compact)
