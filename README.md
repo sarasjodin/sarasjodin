@@ -16,25 +16,30 @@ I'm a passionate developer with an interest in technology from web development, 
 
 ## Programming languages, Technologies & Frameworks
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-%23000000.svg?style=for-the-badge&logo=micropython&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ## Databases & Query Languages
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-%230072C6.svg?style=for-the-badge&logo=power-bi&logoColor=white)
 ![ScyllaDB](https://img.shields.io/badge/ScyllaDB-52C8D3.svg?style=for-the-badge&logo=scylladb&logoColor=white)
 
 ## Web Development
+![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Parcel](https://img.shields.io/badge/Parcel-%23F7B93E.svg?style=for-the-badge&logo=Parcel&logoColor=black)
 ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
 
 ## Web Optimization & Accessibility
 ![PageSpeed Insights](https://img.shields.io/badge/PageSpeed-00C853.svg?style=for-the-badge&logo=Google-Lighthouse&logoColor=white)
@@ -48,7 +53,7 @@ I'm a passionate developer with an interest in technology from web development, 
 ![WebM](https://img.shields.io/badge/WebM-00D1B2.svg?style=for-the-badge&logo=WebM&logoColor=white)
 
 ## JavaScript Libraries for Interactive Charts & Maps
-![3D.js](https://img.shields.io/badge/3D.js-0080FF.svg?style=for-the-badge&logo=Three.js&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=black)
 ![Chartist.js](https://img.shields.io/badge/Chartist.js-FF6347.svg?style=for-the-badge&logo=Chartist&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6F00.svg?style=for-the-badge&logo=Chart.js&logoColor=white)
 ![Highcharts](https://img.shields.io/badge/Highcharts-009688.svg?style=for-the-badge&logo=Highcharts&logoColor=white)
