@@ -14,6 +14,11 @@ I'm a passionate developer with an interest in technology from web development, 
 
 - **[LinkedIn](https://it.linkedin.com/in/sjodinscolari)**
 
+## ☁️ Cloud Deployments
+
+[![Azure](https://img.shields.io/badge/Azure-Deployed-blue?logo=windows&logoColor=white)]([https://your-app-url.azurewebsites.net](https://my-first-azure-restful-api-cv-lab-f3a8dgaxhxfdd0b7.westeurope-01.azurewebsites.net/))
+[![MySQL](https://img.shields.io/badge/Database-MySQL-informational?logo=mysql&logoColor=white)]([https://azure.com/](https://my-first-azure-restful-api-cv-lab-f3a8dgaxhxfdd0b7.westeurope-01.azurewebsites.net/))
+
 ## Programming languages, Technologies & Frameworks
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
