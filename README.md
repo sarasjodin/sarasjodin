@@ -68,6 +68,7 @@ I'm a passionate developer with an interest in technology from web development, 
 
 
 ## JavaScript Libraries for Interactive Charts & Maps
+![Wordcloud2.js](https://img.shields.io/badge/Wordcloud2.js-blue.svg?style=for-the-badge&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=black)
 ![Chartist.js](https://img.shields.io/badge/Chartist.js-FF6347.svg?style=for-the-badge&logo=Chartist&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6F00.svg?style=for-the-badge&logo=Chart.js&logoColor=white)
