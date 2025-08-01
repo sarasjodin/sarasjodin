@@ -3,7 +3,7 @@
 I'm a passionate developer with an interest in technology from web development, data visualizations to IoT. I love to experiment, build innovative tools, and continuously learn new skills.
 
 ## Some of my projects
-### [My lastest projects](not yet included in a portfolio...)
+### My lastest projects - not yet included in the portfolio site
 
 - **[Sara's TechTrends](https://sara-tech-trends.netlify.app/)**: Sara's TechTrend - A MashUp site utilizing three API:s.
 - **[ToDo app](https://sarasjodin.github.io/my-todo-app/)**: My ToDo app - A TypeScript project.
