@@ -5,6 +5,8 @@ I'm a passionate developer with an interest in technology from web development, 
 ## Some of my projects
 ### My lastest projects - not yet included in the portfolio site
 
+- **[A fullstack solution with the backend on Azure and frontend on Netlify](https://my-frontend-cv-lab.netlify.app/)**: A RESTful CV app where the backend runs on Azure with a MySQL database, and the frontend is deployed via Netlify. Users can add, edit, and delete work experiences — following modern fullstack best practices and CORS setup for safe communication between layers.
+
 - **[A retro console app](https://my-console-app.netlify.app)**: C# console calculation - The day of the week for a certain date.
 - **[Sara's TechTrends](https://sara-tech-trends.netlify.app/)**: Sara's TechTrend - A MashUp site utilizing three API:s.
 - **[ToDo app](https://sarasjodin.github.io/my-todo-app/)**: My ToDo app - A TypeScript project.
