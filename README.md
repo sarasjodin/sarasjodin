@@ -8,7 +8,7 @@ I enjoy building fullstack solutions, APIs, cloud deployments and data-driven ap
 ### My lastest projects - not yet included in the portfolio site
 
 - **[My Authentication Lab](https://my-authentication-lab.netlify.app/)**: A fullstack authentication solution built with Node.js, Express, SQLite, JWT, Docker and Traefik. The frontend is deployed on Netlify and communicates with a containerized backend running on my VPS, demonstrating secure user registration, login and protected routes.
-- **[Valdoro – Headless CMS Platform](https://valdoro.netlify.app/)**: A headless WordPress CMS solution with a decoupled frontend hosted on Netlify. The project showcases API-driven development, content management workflows, frontend performance optimization and modern cloud-based deployment practices.
+<!-- - **[Valdoro – Headless CMS Platform](https://valdoro.netlify.app/)**: A headless WordPress CMS solution with a decoupled frontend hosted on Netlify. The project showcases API-driven development, content management workflows, frontend performance optimization and modern cloud-based deployment practices. -->
 - **[A fullstack solution with the backend on Azure and frontend on Netlify](https://my-frontend-cv-lab.netlify.app/)**: A RESTful CV app where the backend runs on Azure with a MySQL database, and the frontend is deployed via Netlify.
 - **[A retro console app](https://my-console-app.netlify.app)**: C# console calculation - The day of the week for a certain date.
 - **[Sara's TechTrends](https://sara-tech-trends.netlify.app/)**: Sara's TechTrend - A MashUp site utilizing three API:s.
